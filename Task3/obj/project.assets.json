@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Angela Egerega\\Desktop\\C-Sharp\\Task3\\Task3.csproj",
+      "projectUniqueName": "C:\\Users\\Angela Egerega\\Desktop\\DarkStar_Guessing_Game\\Task3\\Task3.csproj",
       "projectName": "Task3",
-      "projectPath": "C:\\Users\\Angela Egerega\\Desktop\\C-Sharp\\Task3\\Task3.csproj",
+      "projectPath": "C:\\Users\\Angela Egerega\\Desktop\\DarkStar_Guessing_Game\\Task3\\Task3.csproj",
       "packagesPath": "C:\\Users\\Angela Egerega\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Angela Egerega\\Desktop\\C-Sharp\\Task3\\obj\\",
+      "outputPath": "C:\\Users\\Angela Egerega\\Desktop\\DarkStar_Guessing_Game\\Task3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Angela Egerega\\AppData\\Roaming\\NuGet\\NuGet.Config",
